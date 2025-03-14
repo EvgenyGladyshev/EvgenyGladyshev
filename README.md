@@ -1,16 +1,14 @@
-## Hi there 👋
+## Привет 👋
 
-<!--
-**EvgenyGladyshev/EvgenyGladyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Евгений, я начинающий аналитик. Буду рад принести пользу вашему бизнесу!
 
-Here are some ideas to get you started:
+# Про меня
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Закончил химфак ННГУ им. Н.И.Лобачевского
+- Сфера интересов: продуктовая аналитика, бизнес-аналитика, аналитика данных
+- Стек технологий: PostgreSQL, Python, Metabase, Pandas и т.д
+
+# Связь со мной
+
+Telegram: @Jeck14an
+Email: dj_ok555@mail.ru
