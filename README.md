@@ -10,5 +10,5 @@
 
 ## Связь со мной
 
--Telegram: @Jeck14an
--Email: dj_ok555@mail.ru
+- Telegram: @Jeck14an
+- Email: dj_ok555@mail.ru
