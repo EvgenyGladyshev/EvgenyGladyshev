@@ -7,11 +7,11 @@
 - Закончил химфак ННГУ им. Н.И.Лобачевского
 - Сфера интересов: продуктовая аналитика, бизнес-аналитика, аналитика данных
 - Стек технологий:
-  1) SQL: PostgreSQL (сложные запросы, джоины, CTE, подзапросы, массивы, агрегатные функции, оконные функции)
-  2) Python: pandas, numpy, seaborn, matplotlib, plotly, math, stat, json, Jupyter Notebook
-  3) Excel: сводные таблицы, функции
-  4) BI: Metabase
-  5) А/Б-тестирование
+  * SQL: PostgreSQL (сложные запросы, джоины, CTE, подзапросы, массивы, агрегатные функции, оконные функции)
+  * Python: pandas, numpy, seaborn, matplotlib, plotly, math, stat, json, Jupyter Notebook
+  * Excel: сводные таблицы, функции
+  * BI: Metabase
+  * А/Б-тестирование
 
 ## Связь со мной
 
