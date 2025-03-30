@@ -7,6 +7,7 @@
 - Закончил химфак ННГУ им. Н.И.Лобачевского
 - Сфера интересов: продуктовая аналитика, бизнес-аналитика, аналитика данных
 - Стек технологий:
+  * Метрики: CPM, CPC, CPL, CPA, CR, CAC, ROMI, MAU, DAU, WAU, SF, AOV, ARPU, ARPPU, Retention (n-day, rolloing, return, full), Churn Rate, LT, LTV
   * SQL: PostgreSQL (сложные запросы, джоины, CTE, подзапросы, массивы, агрегатные функции, оконные функции)
   * Python: pandas, numpy, seaborn, matplotlib, plotly, math, stat, json, Jupyter Notebook
   * Excel: сводные таблицы, функции
